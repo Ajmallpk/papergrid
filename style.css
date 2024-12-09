@@ -1,0 +1,67 @@
+
+@media (max-width:750px) {
+    .founder{
+        display: flex ;
+        flex-direction: column ;
+        align-items: center ;
+
+    }
+}
+
+@media (max-width:750px) {
+    .para{
+        text-align: center;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:750px) {
+    .heading{
+        text-align: center;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:750px) {
+    .ft2
+    {
+        text-align: center;
+        flex-direction: column;
+    }
+    
+}
+ 
+.ft2  a{
+
+     text-decoration: none; 
+      color: white;  
+}
+
+.hovering:hover{
+    color: rgb(255, 255, 255) !important;
+    text-decoration: underline !important;
+
+}
+ #navbarTogglerDemo01{ 
+     padding-left: 8%; 
+}
+.ft2{
+    padding-left: 10%;
+
+}
+
+@media (max-width:320px) {
+    .das{
+        margin-left: -8px;
+    }
+
+}
+
+@media (max-width:426px) {
+    .contact-logo{
+        display: none;
+    }
+
+}
+
+
